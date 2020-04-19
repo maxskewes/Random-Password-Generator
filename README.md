@@ -10,4 +10,4 @@ check out the deployed app [here](https://maxskewes.github.io/Random-Password-Ge
 * [Javascvript](https://www.javascript.com)
 
 ## Author
-Maxwell Countryman Skewes
+Maxwell Countryman Skewes ©2019
